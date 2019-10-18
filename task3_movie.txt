@@ -1,0 +1,24 @@
+Revolution OS Reflections 
+
+1.	What was the point made by Bill Gates in his open Letter to Hobbyists? (7:22 – 9:08)
+
+The point made by Bill Gates in his open Letter to Hobbyists was for the relatively new concept of proprietary. 
+The concept of proprietary was the practice of computer users had been to freely pass around software with very 
+little thought of ownership. The people who develop the software is stolen and shared to others. In the letter 
+bill Gates states “hardware must be paid for but software is something to share”. The hard work that programmers 
+that invented the software and don’t get paid for it is something that Bill Gates question. 
+
+
+2.	What did Richard Stallman describe as an ethical dilemma? (9:23- 11:00)
+
+Richard Stallman describes the whole idea of commercial software as an ethical dilemma. Richard could not get the 
+company that owned on the code to let him fix it even thought it would benefit the company in the end. The developers 
+of the systems don’t share with other people. They tried to control the users, and to get the system they user would have 
+to sign a contract that the user is unable to share it with anyone else from the outside world.  Richard said that when signing 
+that contract, you are turning into a bad person.  
+
+
+
+3.	What are the freedoms that enable people to form a community? (15: 06 – 15:13)
+The freedoms that enable people to form a community was the freedom to make changes if the individual wants to, hire someone else 
+to make changes for you, to make copies and share with others, making improvements and publish them for free software. 

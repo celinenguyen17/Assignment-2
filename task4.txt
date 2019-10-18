@@ -1,0 +1,15 @@
+I found very difficult to use Atom compared with GitHub. 
+In my opinion there is more work to be done with atom. 
+Maybe its because I am not very familiar how to use it. 
+I do appereciate on the side tab there is an area where you can see your unstaged changes 
+and staged changes also committing the change is there as well. The command-based method 
+used in labs 1 and 2 are a bit different in GitHub first you would need to clone the files 
+from GitHub then once you added other files then you used the command "git add *". 
+After that you would do "git status" to see where the files are located. Then, do git commit -m "..." <- inside 
+the " " you would put a comment of what changes you have made. Finally GitHub would ask you the username and password
+of your GitHub and then you can push your changes and refresh the page in the browers to see the updated files uploaded.
+
+In atom I don't see the changes made when committing the assignment. the commands are almost the same but it is displayed for you.
+It seems to be a lot quicker. But I would prefer to use GitHub because its easier. 
+
+
